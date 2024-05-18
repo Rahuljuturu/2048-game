@@ -25,3 +25,5 @@ The project implements the classic 2048 game using Python and the Pygame library
 - **Score Tracking**: Players can track their progress and achievements through the game's score tracking system.
 
 This project provides an enjoyable gaming experience while also serving as a learning opportunity for Python programming and game development with Pygame.
+<img width="1422" alt="Screenshot 2024-05-18 at 2 56 58 PM" src="https://github.com/Rahuljuturu/2048-game/assets/119720467/a406961b-a734-44cc-8999-b3f8ab9267ef">
+
